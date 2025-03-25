@@ -2,12 +2,10 @@
 <h3 align="center">A passionate RPA Developer from Brazil</h3>
 
 - 🌱 I’m currently learning **RPA, Python, Automation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ricardosergiodf](https://github.com/ricardosergiodf)
-
+  
 - 📫 How to reach me: **ricardosergiodf@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/ricardo-duarte-dev/](https://www.linkedin.com/in/ricardo-duarte-dev/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ricardo-duarte-dev/)
 
 - ⚡ Fun fact: **I got 940 in the essay of the National High School Exam (ENEM) in Brazil**
 
