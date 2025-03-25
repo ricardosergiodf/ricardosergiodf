@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ricardosergiodf](https://github.com/ricardosergiodf)
 
-- 📫 How to reach me **ricardosergiodf@gmail.com**
+- 📫 How to reach me: **ricardosergiodf@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ricardo-duarte-dev/](https://www.linkedin.com/in/ricardo-duarte-dev/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/ricardo-duarte-dev/](https://www.linkedin.com/in/ricardo-duarte-dev/)
 
-- ⚡ Fun fact **I got 940 in the essay of the National High School Exam (ENEM) in Brazil**
+- ⚡ Fun fact: **I got 940 in the essay of the National High School Exam (ENEM) in Brazil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
