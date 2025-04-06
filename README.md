@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Duarte</h1>
-<h3 align="center">A passionate RPA Developer from Brazil</h3>
+<h3 align="center">RPA Developer from Brazil</h3>
 
 - 🌱 I’m currently learning **RPA, Python, Automation**
   
