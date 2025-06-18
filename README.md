@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Duarte</h1>
 <h3 align="center">RPA Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **RPA, Python, Automation**
+- 🌱 I’m currently learning **RPA, Rocketbot, Python, Automation**
   
 - 📫 How to reach me: **ricardosergiodf@gmail.com**
 
