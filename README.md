@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ricardo-duarte-dev/)
 
-- ⚡ Fun fact: **I got 940 in the essay of the National High School Exam (ENEM) in Brazil**
+- ⚡ Fun fact: **I got 940/1000 in the essay of the National High School Exam (ENEM) in Brazil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
