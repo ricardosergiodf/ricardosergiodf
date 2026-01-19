@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ricardo Duarte</h1>
-<h3 align="center">RPA Developer from Brazil</h3>
+<h3 align="center">Automation Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **RPA, Rocketbot, Python, Automation**
+- 🌱 I’m currently learning **RPA, N8N, Python, Automation**
   
 - 📫 How to reach me: **ricardosergiodf@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/ricardo-duarte-dev/)
+- 📄 Know about my experiences: [Portfolio](https://ricardosergiodf.github.io/)
 
 - ⚡ Fun fact: **I got 940/1000 in the essay of the National High School Exam (ENEM) in Brazil**
 
